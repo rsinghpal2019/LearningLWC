@@ -2,6 +2,45 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
+            "c/accountMap": [
+                "accountMap/accountMap.js"
+            ],
+            "c/bikeCard": [
+                "bikeCard/bikeCard.js"
+            ],
+            "c/createARecord": [
+                "createARecord/createARecord.js"
+            ],
+            "c/data": [
+                "data/data.js"
+            ],
+            "c/detail": [
+                "detail/detail.js"
+            ],
+            "c/displayAccountRecord": [
+                "displayAccountRecord/displayAccountRecord.js"
+            ],
+            "c/helloExpressions": [
+                "helloExpressions/helloExpressions.js"
+            ],
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/inlineMessage": [
+                "inlineMessage/inlineMessage.js"
+            ],
+            "c/ldsUtils": [
+                "ldsUtils/ldsUtils.js"
+            ],
+            "c/learnHelloWorld": [
+                "learnHelloWorld/learnHelloWorld.js"
+            ],
+            "c/list": [
+                "list/list.js"
+            ],
+            "c/myFirstWebComponent": [
+                "myFirstWebComponent/myFirstWebComponent.js"
+            ],
             "c/orderBuilder": [
                 "orderBuilder/orderBuilder.js"
             ],
@@ -14,53 +53,11 @@
             "c/placeholder": [
                 "placeholder/placeholder.js"
             ],
-            "c/accountMap": [
-                "accountMap/accountMap.js"
-            ],
-            "c/inlineMessage": [
-                "inlineMessage/inlineMessage.js"
-            ],
-            "c/simpleCalculator": [
-                "simpleCalculator/simpleCalculator.js"
-            ],
-            "c/ldsUtils": [
-                "ldsUtils/ldsUtils.js"
-            ],
-            "c/searchAccountRecord": [
-                "searchAccountRecord/searchAccountRecord.js"
-            ],
             "c/productCard": [
                 "productCard/productCard.js"
             ],
             "c/productFilter": [
                 "productFilter/productFilter.js"
-            ],
-            "c/helloWorld": [
-                "helloWorld/helloWorld.js"
-            ],
-            "c/bikeCard": [
-                "bikeCard/bikeCard.js"
-            ],
-            "c/createARecord": [
-                "createARecord/createARecord.js"
-            ],
-            "c/displayAccountRecord": [
-                "displayAccountRecord/displayAccountRecord.js"
-            ],
-            "c/myFirstWebComponent": [
-                "myFirstWebComponent/myFirstWebComponent.js"
-            ],
-            "c/yourBikeSelection": [
-                "yourBikeSelection/yourBikeSelection.js"
-            ],
-            "c/similarProducts": [
-                "similarProducts/similarProducts.js"
-            ],
-            "c/data": [
-                "data/data.js"
-            ],
-            "c/detail": [
-                "detail/detail.js"
             ],
             "c/productListItem": [
                 "productListItem/productListItem.js"
@@ -74,32 +71,26 @@
             "c/pubsub": [
                 "pubsub/pubsub.js"
             ],
-            "c/list": [
-                "list/list.js"
+            "c/searchAccountRecord": [
+                "searchAccountRecord/searchAccountRecord.js"
             ],
             "c/selector": [
                 "selector/selector.js"
             ],
+            "c/showComponentsLWC": [
+                "showComponentsLWC/showComponentsLWC.js"
+            ],
+            "c/similarProducts": [
+                "similarProducts/similarProducts.js"
+            ],
+            "c/simpleCalculator": [
+                "simpleCalculator/simpleCalculator.js"
+            ],
             "c/tile": [
                 "tile/tile.js"
             ],
-            "c/LearnHelloWorld": [
-                "LearnHelloWorld/LearnHelloWorld.js"
-            ],
-            "c/learnHelloWorld": [
-                "learnHelloWorld/learnHelloWorld.js"
-            ],
-            "c/HelloExpressions": [
-                "HelloExpressions/HelloExpressions.js"
-            ],
-            "c/helloExpressions": [
-                "helloExpressions/helloExpressions.js"
-            ],
-            "c/ShowComponentsLWC": [
-                "ShowComponentsLWC/ShowComponentsLWC.js"
-            ],
-            "c/showComponentsLWC": [
-                "showComponentsLWC/showComponentsLWC.js"
+            "c/yourBikeSelection": [
+                "yourBikeSelection/yourBikeSelection.js"
             ]
         },
         "experimentalDecorators": true
